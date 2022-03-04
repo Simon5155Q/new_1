@@ -1,0 +1,43 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.0",
+    "@fullcalendar/core": "^5.10.1",
+    "@fullcalendar/daygrid": "^5.10.1",
+    "@fullcalendar/list": "^5.10.1",
+    "@fullcalendar/react": "^5.10.1",
+    "@fullcalendar/timegrid": "^5.10.1",
+    "@react-navigation/native": "^3.8.4",
+    "expo": "~43.0.2",
+    "expo-app-auth": "~11.0.3",
+    "expo-app-loading": "~1.2.1",
+    "expo-constants": "~12.1.3",
+    "expo-font": "~10.0.3",
+    "expo-google-app-auth": "~9.0.0",
+    "expo-status-bar": "~1.1.0",
+    "firebase": "8.2.3",
+    "gapi-script": "1.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-gapi": "1.0.1",
+    "react-native": "0.64.3",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-paper": "4.9.2",
+    "react-native-responsive-fontsize": "*",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1",
+    "react-navigation": "4.2.0",
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
